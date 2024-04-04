@@ -1,0 +1,42 @@
+PS C:\Users\bmw13\OneDrive\Documents\GitHub\CS2370-Project-5-OOP-.5> ./a.exe
+Total customers: 300
+Total items: 198
+Enter customer number: 827196 
+Welcome Kalle MacCurley
+Enter item number (0 to quit)
+23750
+Added Bagel - Everything: $2.49
+
+Enter item number (0 to quit)
+70447
+Added Bar - Sweet And Salty Chocolate: $1.99
+
+Enter item number (0 to quit)
+55555
+Item not found
+
+Enter item number (0 to quit)
+55555
+Item not found
+
+Enter item number (0 to quit)
+22222
+Item not found
+
+Enter item number (0 to quit)
+0
+Thank you for shopping with us
+Customer: Kalle MacCurley
+Address: 09 Sullivan Avenue, Houston, TX 77266
+Phone: 713-859-6888
+Email: kmaccurleyc@51.la
+Items:
+Bagel - Everything: $2.49
+Bar - Sweet And Salty Chocolate: $1.99
+Total Number of Items: 2
+Total: $4.48
+PS C:\Users\bmw13\OneDrive\Documents\GitHub\CS2370-Project-5-OOP-.5> ./a.exe
+Total customers: 300
+Total items: 198
+Enter customer number: 00000 
+Customer not found
